@@ -20,7 +20,8 @@ To set up the Expense Tracker on your local machine, follow these steps:
 2. Open `index.html` in your browser.
 
 ## Technologies Used
-
+- **Html&Css**
+- **JavaScript**
 - **ReactJs**: Core functionality.
 - **Design**: Tailwind Css.
 
