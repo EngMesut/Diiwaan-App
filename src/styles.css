@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Add any custom styles below this line */
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+.expense-form input[type="date"]::-webkit-calendar-picker-indicator {
+    filter: invert(0.5);
+}
+
